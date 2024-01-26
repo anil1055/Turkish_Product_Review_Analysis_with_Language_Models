@@ -3,13 +3,13 @@
 Nowadays, shopping is done more comfortably and without time constraints with the throwing of e-commerce platforms. These platforms allow consumers to examine reviews 
 before purchasing products. Thus, consumers can decide whether to buy a product with positive or negative comments about the products. In this colab file, Turkish sentiment 
 analysis was carried out on the product comments at the Hepsiburada platform. For sentiment analysis, the effect of BERT, ELECTRA and ALBERT language models on sentiment 
-analysis was analyzed.
+analysis was analyzed. All models was uploaded in https://huggingface.co/anilguven
 
 ![image](https://user-images.githubusercontent.com/17703776/209358992-652d09cb-8577-4a1d-bd9a-69b66e2b2ac5.png)
 
 
-Dataset link: https://www.kaggle.com/datasets/busra88/turkish-reviews-dataset
-!Stemming has been applied to the uploaded dataset files.
+Dataset link: https://huggingface.co/datasets/anilguven/turkish_product_reviews_sentiment
+!Stemming has been applied to the uploaded dataset files. Real dataset: https://www.kaggle.com/datasets/bulentsiyah/hepsi-burada-yorum
 
 !!! Please citation this paper: 
 ```
